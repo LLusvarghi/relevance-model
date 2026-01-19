@@ -1,5 +1,5 @@
 # Relevance Model
-This is the official repository of the paper _"Self-Supervised Relevance Modelling in Autonomous Driving via Counterfactual Analysis"_ submitted for presentation to the IEEE IV 2026 conference.
+This is the official repository of the paper entitled _"Self-Supervised Relevance Modelling in Autonomous Driving via Counterfactual Analysis"_.
 
 A relevance model is an AI-based tool able to estimate the relevance of objects for an autonomous vehicle. We developed and openly released a relevance model trained on a causal dataset generated through counterfactual analysis on a selected urban T-shaped intersection extracted from CARLA's Town01 map, considering an autonomous vehicle running [Autoware](https://github.com/autowarefoundation/autoware_universe)'s open-source autonomous driving stack.\
 The trained relevance model is available as a pickle file: __relevance-model.pkl__
